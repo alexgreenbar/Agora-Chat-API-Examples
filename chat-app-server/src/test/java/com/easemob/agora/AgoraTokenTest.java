@@ -1,6 +1,6 @@
 package com.easemob.agora;
 
-import com.easemob.agora.utils.agoratools.chat.ChatTokenBuilder2;
+import io.agora.chat.ChatTokenBuilder2;
 import org.junit.Test;
 
 public class AgoraTokenTest {
